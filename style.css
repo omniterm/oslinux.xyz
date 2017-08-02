@@ -1,0 +1,74 @@
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 0.6em 0.4em 0.4em;
+	color: #000;
+	font-weight: normal;
+	font-family: "Courier New", Courier, monospace;	
+	font-size: 3em;
+}
+p.base{
+	font-family: 'Cedarville Cursive';
+	font-size: 1.6em;
+}
+p.copyright{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 120px;
+	text-align: left;
+	font-size: .6em;
+}
+/* unvisited link */
+a:link {
+	color: darkblue;
+}
+
+/* visited link */
+a:visited {
+	color: green;
+}
+
+/* mouse over link */
+a:hover {
+	color: gray;
+}
+
+/* selected link */
+a:active {
+	color: blue;
+}
+hr {
+	display: none;
+}
+.content {
+	padding: 1em 5em;
+}
+.alert {
+	border: 2px solid #000;
+}
+
+img {
+	border: 0px solid #fff;
+	padding: 0px;
+	margin: 0px;
+}
+a:hover img {
+	border: 2px solid #294172;
+}
+.logos {
+	margin: 1em;
+	text-align: center;
+}
+p.base{
+	text-align: center;
+}
+p.img{
+	text-align: center;
+}
+p.siteseal{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: left;
+}
